@@ -13,8 +13,6 @@ A modern Android task management app built with Material 3 expressive UI.
 - Modern Design
 - And many more...
 
-## Download ⬇️
-APK available in Releases section.
 ## 📸 Screenshots
 
 <details>
@@ -34,5 +32,7 @@ APK available in Releases section.
 <img width="1080" height="1376" alt="144686" src="https://github.com/user-attachments/assets/46616cbe-72aa-46c1-a7cb-4d0cda7acb61" />
 
 
-
 </details>
+
+## Download ⬇️
+APK available in Releases section.
