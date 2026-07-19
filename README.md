@@ -2,7 +2,7 @@
 
 
 
-# My Tasks ✅
+# My Tasks App
 
 A modern Android task management app built with Material 3 expressive UI.
 
